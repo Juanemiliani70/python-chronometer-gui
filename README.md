@@ -9,10 +9,10 @@ It allows you to start, pause, reset and track **minutes, seconds, and milliseco
 
 Here are some previews of the application:
 
-![Screenshot 1](img/img1.png)  
-![Screenshot 2](img/img2.png)  
-![Screenshot 3](img/img3.png)  
-![Screenshot 4](img/img4.png)  
+![Screenshot 1](img/img1.jpg)  
+![Screenshot 2](img/img2.jpg)  
+![Screenshot 3](img/img3.jpg)  
+![Screenshot 4](img/img4.jpg)  
 
 ---
 
